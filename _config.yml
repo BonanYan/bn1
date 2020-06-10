@@ -1,3 +1,4 @@
 title: Resources
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme: LeNPaul/Millennial
 footer_content: "Copyright &copy; 2020 Bonan Yan. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
