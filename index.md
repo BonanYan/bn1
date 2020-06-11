@@ -8,10 +8,12 @@ title: Bonan Yan
 I am Bonan Yan 燕博南, PhD at Duke University. 
 
 You will find:
-* [CV](A_Me) 
-* [Slides, Videos & Materials](B_Materials)
-* [Open-Source Toolkits](C_Software) 
-* And Our Generous [Sponsors](D_Sponsors).
+* [CV](A_Me)
+* [Research Group](B_Group) 
+* [Teaching](C_Teaching)
+* [Slides, Videos & Recommended Materials](D_Materials)
+* [Open-Source Toolkits](E_Software) 
+* And Our Generous [Sponsors](F_Sponsors).
 
 <!-- |Link|You will find|
 |---|---|
@@ -19,6 +21,8 @@ You will find:
 |*[Materials](B_Materials) | my slides, videos & recommended materials|
 |*[Software](C_Software) | open source software|
 |*[Sponsors](D_Sponsors)|the generous sponsors of our research| -->
+
+<hr>
 
 <p align="center">
   Copyright &copy; 2020 Bonan Yan. Theme by <a href="https://minicomp.github.io/ed/">Ed.</a> Distributed under an <a href="/LICENSE">MIT license</a>.

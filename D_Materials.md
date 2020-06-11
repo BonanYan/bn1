@@ -1,13 +1,19 @@
 ---
 layout: page
-title: Materials
+title: Resources
 ---
 
-## My Slides
+## Slides
 
-My PhD Work [slides](XXX)
+* My PhD Work [slides](XXX)
 
 ## Videos
+
+* [Chip Demo](XXX)
+
+## Tutorials
+
+* [Server Tutorial](XXX)
 
 ## Shoulders of The Giants
 
