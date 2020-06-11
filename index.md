@@ -5,7 +5,7 @@ title: Bonan Yan
 
 # hi
 
-I am Bonan Yan 燕博南, PhD at Duke University. 
+I am Bonan Yan, PhD at Duke University. 
 
 You will find:
 * [CV](A_Me)

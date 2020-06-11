@@ -3,17 +3,22 @@ layout: page
 title: About me
 ---
 
+[CV](XXX) / [Google Scholar Site](XXX) / [LinkedIn](XXX).
+
 I am Bonan Yan, Ph.D., now a PhD candidate at Duke University. Still looking for a post-graduate job. 
+
+
+### Contact
+
+701 W Main St
+Suite 400
+Durham, NC, USA 27701
+
+Email: bonan.yan AT outlook.com
 
 ### Research Interests
 
 XXXX
-
-### Teaching
-
-ECEXXX
-
-ECEXXX
 
 ### Education
 
