@@ -11,7 +11,7 @@ You will find:
 * [CV](A_Me) 
 * [Slides, Videos & Materials](B_Materials)
 * [Open-Source Toolkits](C_Software) 
-* And Our Generous [ponsors](D_Sponsors).
+* And Our Generous [Sponsors](D_Sponsors).
 
 <!-- |Link|You will find|
 |---|---|
