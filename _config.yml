@@ -1,4 +1,62 @@
-title: Resources
-# remote_theme: pmarsceill/just-the-docs
+# Built with Jekyll 3.6.0
+
+# Setup
+title:               Bonan Yan
+tagline:             '"Keep Open"'
+description:         'Bonan Yan is a PhD, Researcher.'
+url:                 'http://bonanyan.github.io'
+baseurl:             '/docs'
+
+# About/contact
+author:
+  name:              Bonan Yan
+  url:               https://bonanyan.github.io/bn
+  email:             bonan.yan@outlook.com
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme:
+
+# Permalinks
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+  - backstop_data
+  - backstop.json
+
+# Theme
+# (Used for local or custom-server deployments)
+# Uncomment the `theme` line if using the Ed. theme gem on your own computer or server.
+# See https://jekyllrb.com/docs/themes/
+# theme: "ed."
+
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 remote_theme: minicomp/ed
-footer_content: "Copyright &copy; 2020 Bonan Yan. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
