@@ -2,7 +2,7 @@
 
 # Setup
 title:               Bonan Yan
-tagline:             '燕博南'
+# tagline:             '燕博南'
 description:         'Bonan Yan is a PhD, Researcher.'
 url:                 'http://bonanyan.github.io'
 baseurl:             '/docs'
