@@ -1,10 +1,9 @@
 ---
-layout: default
-title: Home
-nav_order: 1
-permalink: /
+layout: page
+title: Delayed till she had ceased to know
 ---
 
-# Hello, Learner!
+# hi
 
-:snail: Pick up one on the left and learn!
+I am Bonan Yan, PhD at Duke University.
+
