@@ -5,7 +5,7 @@ title: About me
 
 [CV](XXX) / [Google Scholar Site](XXX) / [LinkedIn](XXX).
 
-I am Bonan Yan, Ph.D., now a PhD candidate at Duke University. Still looking for a post-graduate job. 
+I am Bonan Yan 燕博南, Ph.D., now a PhD candidate at Duke University. Still looking for a post-graduate job. 
 
 
 ### Contact
