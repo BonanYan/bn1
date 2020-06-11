@@ -10,9 +10,7 @@ I am Bonan Yan, Ph.D., now a PhD candidate at Duke University. Still looking for
 
 ### Contact
 
-701 W Main St
-Suite 400
-Durham, NC, USA 27701
+701 W Main St, Suite 400, Durham, NC, USA 27701
 
 Email: bonan.yan AT outlook.com
 
@@ -22,16 +20,14 @@ XXXX
 
 ### Education
 
-2017-2020 Duke University, Ph.D.
+* 2017-2020 Duke University, _Ph.D._
 
-2014-2017 University of Pittsburgh, M.S.
+* 2014-2017 University of Pittsburgh, _M.S._
 
-2010-2014 Beihang University, B.E.
+* 2010-2014 Beihang University, _B.E._
 
-### Experiences
+### Work Experiences
 
-2020 Secret...
-
-2015 5-8 HPE Visiting Scholar
+* 2015 5-8 HPE Visiting Scholar
 
 [\<*BACK*\>](https://bonanyan.github.io/docs)

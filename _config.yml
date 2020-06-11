@@ -14,7 +14,7 @@ author:
   email:             bonan.yan@outlook.com
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: blue
 
 # Permalinks
 permalink: pretty

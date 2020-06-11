@@ -15,13 +15,6 @@ You will find:
 * [Open-Source Toolkits](E_Software) 
 * And Our Generous [Sponsors](F_Sponsors).
 
-<!-- |Link|You will find|
-|---|---|
-|*[About Me](A_Me) | my curriculum vitae|
-|*[Materials](B_Materials) | my slides, videos & recommended materials|
-|*[Software](C_Software) | open source software|
-|*[Sponsors](D_Sponsors)|the generous sponsors of our research| -->
-
 <hr>
 
 <p align="center">
