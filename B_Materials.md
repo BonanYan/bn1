@@ -11,5 +11,7 @@ My PhD Work [slides](XXX)
 
 ## Shoulders of The Giants
 
-*[*You and your research*](youandyourresearch.html) by Dr. Richard W. Hamming
-*[*How to give a clear speech*](XXX) by Prof. XXX 
+* [*You and your research*](youandyourresearch.html) by Dr. Richard W. Hamming
+* [*How to give a clear speech*](XXX) by Prof. XXX 
+
+[\<*BACK*\>](https://bonanyan.github.io/docs)
