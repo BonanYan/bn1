@@ -5,8 +5,13 @@ title: Bonan Yan
 
 # hi
 
-I am Bonan Yan 燕博南, PhD at Duke University. This website archives my [CV](A_Me), [slides](B_Materials), [videos](B_Materials), [open-source toolkits](C_Software) and our generous [sponsors](D_Sponsors).
+I am Bonan Yan 燕博南, PhD at Duke University. 
 
+You will find:
+* [CV](A_Me) 
+* [Slides, Videos & Materials](B_Materials)
+* [Open-Source Toolkits](C_Software) 
+* And Our Generous [ponsors](D_Sponsors).
 
 <!-- |Link|You will find|
 |---|---|
