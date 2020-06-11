@@ -5,17 +5,17 @@ title: About me
 
 I am Bonan Yan, Ph.D., now a PhD candidate at Duke University. Still looking for a post-graduate job. 
 
-## Research Interests
+### Research Interests
 
 XXXX
 
-## Teaching
+### Teaching
 
 ECEXXX
 
 ECEXXX
 
-## education
+### Education
 
 2017-2020 Duke University, Ph.D.
 
@@ -23,7 +23,7 @@ ECEXXX
 
 2010-2014 Beihang University, B.E.
 
-## experience
+### Experiences
 
 2020 Secret...
 
