@@ -3,7 +3,9 @@ layout: page
 title: About Me
 ---
 
+{:refdef: style="text-align: center;"}
 ![Bonan Yan](images/bonanyan.jpg){:width="80%"}
+{: refdef}
 
 [CV](XXX) / [Google Scholar Site](XXX) / [LinkedIn](XXX).
 
