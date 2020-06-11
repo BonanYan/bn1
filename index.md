@@ -19,3 +19,7 @@ You will find:
 |*[Materials](B_Materials) | my slides, videos & recommended materials|
 |*[Software](C_Software) | open source software|
 |*[Sponsors](D_Sponsors)|the generous sponsors of our research| -->
+
+<p align="center">
+  Copyright &copy; 2020 Bonan Yan. Theme by <a href="https://minicomp.github.io/ed/">Ed.</a> Distributed under an <a href="/LICENSE">MIT license</a>.
+</p>
