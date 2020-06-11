@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about me
+title: About me
 ---
 
 I am Bonan Yan, Ph.D., now a PhD candidate at Duke University. Still looking for a post-graduate job. 
@@ -22,3 +22,5 @@ XXXX
 2020 Secret...
 
 2015 5-8 HPE Visiting Scholar
+
+[<<](/)
