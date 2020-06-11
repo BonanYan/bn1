@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="images/bonanyan.jpg" width="80%" alt="Bonan Yan">
+![Bonan Yan](images/bonanyan.jpg | width=80)
 
 [CV](XXX) / [Google Scholar Site](XXX) / [LinkedIn](XXX).
 
