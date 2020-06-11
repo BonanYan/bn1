@@ -11,7 +11,7 @@ Content:
 
 |Link|You will find|
 |---|---|
-|[About Me](Me) | my curriculum vitae|
-|[Materials](Materials) | my slides, videos & recommended materials|
-|[Software](Software) | open source software|
-|[Sponsors](Sponsors)|the generous sponsors of our research|
+|[About Me](A_Me) | my curriculum vitae|
+|[Materials](B_Materials) | my slides, videos & recommended materials|
+|[Software](C_Software) | open source software|
+|[Sponsors](D_Sponsors)|the generous sponsors of our research|
