@@ -60,4 +60,5 @@ exclude:
 # (Used only for GitHub deployments)
 # See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 # remote_theme: minicomp/ed
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
+remote_theme:knhash/Pudhina
